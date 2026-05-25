@@ -1,1 +1,4 @@
-# Site-from-Comaoma1234-in-Scratch
+# Если ты скачаешь Vs Code, то надо скачай 2 файла
+
+1. index.html
+2. профиль.png
